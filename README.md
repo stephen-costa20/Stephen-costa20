@@ -12,7 +12,9 @@
 
 ## Welcome to my Page!
 
-I’m a lawyer-turned builder and consultant focused on designing AI-assisted software for legal and enterprise workflows, especially around contracts, approvals, and document-heavy processes. I spend a lot of time building pragmatic systems in Django, stitching together modular apps, and exploring how AI can meaningfully reduce friction in real legal operations—without turning the UX into a science experiment or a black box.
+What kind of problems does Steve build software to solve?
+
+I’m a lawyer-turned builder and consultant focused on designing AI-assisted software for legal and enterprise workflows, especially around contracts, approvals, and document-heavy processes. I spend much of my time building pragmatic systems in Django, stitching together modular apps, and exploring how AI can reduce friction in real legal operations—without turning the UX into a science experiment or a black box.
 
 Outside of coding, I think a lot about product design, automation, and how to translate messy, real-world legal processes into software that’s clean, reliable, explainable, and scalable. I’m especially interested in where AI can augment judgment and workflow in legal teams, rather than replace it.
 
