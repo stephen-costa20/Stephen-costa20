@@ -15,6 +15,8 @@ I’m a lawyer-turned-builder and consultant building software to solve the comp
 
 I spend much of my time building pragmatic systems in Django, stitching together modular apps to reduce friction in these environments. Outside of coding, I treat product design as a problem-solving exercise: determining how to turn messy manual tasks into scalable software where AI augments legal judgment rather than replacing it.
 
+I have a lot more code stored locally and plan on uploading more of it in the coming months.
+
 
 ## Things I code with
 
