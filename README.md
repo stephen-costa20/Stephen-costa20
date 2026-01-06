@@ -37,7 +37,7 @@ I have a lot more code stored locally and plan on uploading more of it in the co
 
 ## Play Ping Pong 🏓
 
-<a href="https://stephen-costa20.github.io/pingpong/" target="_blank">
+<a href="https://stephen-costa20.github.io/StevePingPong/" target="_blank">
   <img src="assets/pingpong-preview.gif" alt="Ping Pong game preview" width="900" />
 </a>
 
