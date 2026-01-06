@@ -7,6 +7,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="https://medium.com/@stephen.costa20"> <img alt="Medium" src="https://img.shields.io/badge/Medium-Read%20My%20Writing-000000?logo=medium&logoColor=white"/></a>
+  <a href="https://x.com/stephen_costa20"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white"/></a>
 </p>
 
 ## Welcome to my Page!
