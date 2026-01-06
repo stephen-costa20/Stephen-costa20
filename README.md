@@ -71,4 +71,5 @@ A standalone, browser-only interactive workflow diagram editor built with SVG an
   <a href="https://medium.com/@stephen.costa20"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-000000?logo=medium&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/stephen-costa-991861245/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Message-0A66C2?logo=linkedin&logoColor=white"/></a>
   <a href="https://huggingface.co/Stephen-costa20"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-Models-FFD21E?logo=huggingface&logoColor=black"/></a>
+  <a href="https://x.com/stephen_costa20"><img alt="X (Twitter)" src="https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white"/></a>
 </p>
